@@ -1,3 +1,6 @@
+This model is deprecated! Do not use it for anything serious!
+
+
 # RoutesRumours
 simulate migration route dynamics dependent on spread of information
 
